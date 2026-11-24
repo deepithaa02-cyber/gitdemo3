@@ -1,3 +1,3 @@
 # gitdemo3
-initial commit
+first commit to from feature branch
 initial commit from local main
